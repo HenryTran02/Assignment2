@@ -36,7 +36,7 @@ public class SwitchStatementEx1 {
                 result = firstNumber / secondNumber;
                 break;
             default:
-                System.out.println("Invalid operation");
+                System.out.println("Invalid number");
                 break;
         }
         System.out.println("Result: " + result);
